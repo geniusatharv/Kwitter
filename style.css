@@ -30,7 +30,11 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 
 #login_button
 {
-	width: 80%;border-radius: 15px;
+	width: 65%;border-radius: 15px;
+}
+#signup_button
+{
+	width: 65%;border-radius: 15px;
 }
 
 .room_name
